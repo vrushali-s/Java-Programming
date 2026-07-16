@@ -1,3 +1,5 @@
+/* An Armstrong number is a number that is equal to the sum of each of its digits raised to the 
+power of the total number of digits in the number */ 
 import java.util.*;
 class ArmstrongNumber{
     public static void main(String args[]){
